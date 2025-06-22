@@ -12,7 +12,6 @@
             <p>MARIA GIULIA B</p> 
         </div>
     </header>
-
     <div class="container">
         <section class="section">
             <h2>SOBRE MIM</h2> 
